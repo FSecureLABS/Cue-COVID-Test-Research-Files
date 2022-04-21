@@ -3,7 +3,7 @@ Files related to the Cue Health COVID Test Research documented here: https://lab
 
 This project contains the following:
 
-* `cue-health_1.4.2.apk` - the Android APK application used for this research
+* `cue-health_v1.4.2-split-zip` - the Android APK application used for this research split into multiple zip files because GitHub has a file size limit
 * `frida-script.js` - a Frida script that can be used to modify test results
 
 <filler text>
